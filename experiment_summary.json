@@ -1,0 +1,15 @@
+{
+  "dataset_id": "agnialf/Internship-Job-Scam-Dataset",
+  "cleaned_dataset_rows": 894,
+  "classes": [
+    "fraudulent",
+    "legitimate",
+    "suspicious"
+  ],
+  "random_state": 42,
+  "primary_test_size": 0.2,
+  "baseline_accuracy": 0.8044692737430168,
+  "improved_accuracy": 0.8324022346368715,
+  "duplicate_aware_accuracy": 0.8,
+  "python_note": "Run in Google Colab and record the actual runtime/library versions."
+}
